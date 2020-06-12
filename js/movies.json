@@ -1,0 +1,66 @@
+array = `[
+    {
+    "title": "Bend it like Beckham",
+    "description": "Bend It Like Beckham is a 2002 romantic comedy sports film produced, written and directed by Gurinder Chadha.",
+    "img": "img/beckham.jpg",
+    "likes": 0,
+    "counter": "counter1",
+    "circle": "circletext1"
+    },
+    {
+    "title": "Bienvenue chez les Chtis",
+    "description": "A 2008 French comedy film directed and co-written by Dany Boon. The film is the highest-grossing film of all time in France.",
+    "img": "img/chtis.jpg",
+    "likes": 0,
+    "counter": "counter2",
+    "circle": "circletext2"
+    },
+    {
+    "title": "I, Daniel Blake",
+    "description": "Daniel Blake, a 59-year-old joiner from Newcastle, has had a heart attack. Though his cardiologist has not allowed him to work, Daniel is deemed fit after a work capability assessment and denied employment and support allowance.",
+    "img": "img/danielblake.jpg",
+    "likes": 0,
+    "counter": "counter3",
+    "circle": "circletext3"
+    },
+    {
+    "title": "El Olivo",
+    "description": "Alma adores her grandfather, a man who has not spoken for years. When the elderly man also refuses to eat, the girl decides to recover the millenary olive tree that the family sold against his will.",
+    "img": "img/elolivo.jpg",
+    "likes": 0,
+    "counter": "counter4",
+    "circle": "circletext4"
+    },
+    {
+    "title": "Honeyland",
+    "description": "The last descendant of a long line of Macedonian wild beekeepers, Hatidze Muratova lives in an abandoned village. ",
+    "img": "img/honeyland.jpg",
+    "likes": 0,
+    "counter": "counter5",
+    "circle": "circletext5"
+    },
+    {
+    "title": "Sweet Bean",
+    "description": "The film by Naomi Kawase centres around Sentaro, a middle-aged man who runs a small dorayaki shop in the outskirts of Tokyo.",
+    "img": "img/kirschbl.jpg",
+    "likes": 0,
+    "counter": "counter6",
+    "circle": "circletext6"
+    },
+    {
+    "title": "Portrait d'une jeune fille en flammes",
+    "description": "Set in France in the late 18th century, the film tells the story of a forbidden affair between an aristocrat and a painter commissioned to paint her portrait.",
+    "img": "img/jeunefille.jpg",
+    "likes": 0,
+    "counter": "counter7",
+    "circle": "circletext7"
+    },
+    {
+    "title": "Wilde Maus",
+    "description": "When music critic Georg loses his job, he conceals the fact from his younger wife Johanna, who wants a child with him. Instead, he embarks upon a campaign of revenge against his former boss.",
+    "img": "img/hader.jpg",
+    "likes": 0,
+    "counter": "counter8",
+    "circle": "circletext8"
+    }
+    ]`

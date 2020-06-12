@@ -1,0 +1,35 @@
+
+@media only screen and (max-width: 768px) {
+    
+    .container {
+        grid-template-columns: 38% 62%;
+        margin-right: 15%;
+    }
+
+    .movies {
+        margin: 4.1% 15% 4% 0;
+    }
+}
+
+
+@media only screen and (min-width: 680px)and (max-width: 768px) {
+    
+    .container {
+        grid-template-columns: 38% 62%;
+        margin-right: 15%;
+    }
+
+    .movies {
+        margin: 3.1% 15% 3% 0;
+    }
+}
+
+@media screen and (max-width: 680px) {
+    .container {
+        grid-template-columns: 45% 55%;
+    }
+
+    .movies {
+        padding: 1.5% 15% 1.5% 2%;
+    }
+}
